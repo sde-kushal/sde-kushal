@@ -24,7 +24,7 @@
 
 ### Featured projects
 
-<table> 
+<table>
  <tr>
     <td>🎁 E-commerce: Giftlaya</td>
     <td><a href="https://giftlaya.com" target="_blank">Website</a></td>
